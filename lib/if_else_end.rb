@@ -1,4 +1,5 @@
 # Write your solution here
-
-if 
+time_now = Time.now
+time = time_now.to_i
+if time 
 end 
